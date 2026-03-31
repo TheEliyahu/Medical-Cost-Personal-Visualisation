@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#2c6d66"
+backgroundColor = "#f7f9fc"
+secondaryBackgroundColor = "#F0F2F6"  # This changes the Sidebar color
+textColor = "#262730"
+font = "sans serif"
