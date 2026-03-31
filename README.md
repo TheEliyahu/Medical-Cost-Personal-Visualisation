@@ -37,3 +37,4 @@ An interactive web application built with Streamlit to visualize and analyze med
 ## 🚀 How to Run Locally
 
 1. pip install -r requirements.txt
+2. py -m streamlit run Final.py
